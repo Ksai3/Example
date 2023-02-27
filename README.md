@@ -1,2 +1,2 @@
-# Commit
+# example project
 Example
